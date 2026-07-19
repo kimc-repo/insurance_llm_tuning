@@ -9,7 +9,7 @@
 
 ![Health Insurance Assistant — Gradio demo screenshot](screenshots/app_screenshot.png)
 
-> Gradio app showing the base LLM (v0) vs. the fine-tuned LLM (v2) answering the same health insurance question side by side, with per-response latency, token counts, and response-type label._
+> Gradio app showing the base LLM (v0) vs. the fine-tuned LLM (v2) answering the same health insurance question side by side, with per-response latency, token counts, and response-type label.
 
 ---
 
