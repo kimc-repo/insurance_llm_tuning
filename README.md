@@ -7,9 +7,9 @@
 <!--  screenshot of the Gradio app (v0 vs v2 side-by-side).        -->
 <!-- ============================================================= -->
 
-![Health Insurance Assistant — Gradio demo screenshot placeholder](screenshots/screenshot_app_placeholder.png)
+![Health Insurance Assistant — Gradio demo screenshot](screenshots/app_screenshot.png)
 
-> _Placeholder: insert a screenshot of the Gradio app showing the base LLM (v0) vs. the fine-tuned LLM (v2) answering the same MediShield Life question side by side, with per-response latency, token counts, and response-type label._
+> Gradio app showing the base LLM (v0) vs. the fine-tuned LLM (v2) answering the same health insurance question side by side, with per-response latency, token counts, and response-type label._
 
 ---
 
@@ -88,11 +88,11 @@ _Numbers reflect a run on defaults (T4 GPU). Raise the training steps for strong
 
 SFT does the heavy lifting for recall, tone *and* abstain; DPO's job is to firm up honest refusal on unknowns while the balanced answer-preserve pairs keep recall from collapsing.
 
-**Radar profile — v0 → v1 → v2:**
+**LLM metrics — v0 → v1 → v2:**
 
-![Metric-profile radar charts placeholder](screenshots/radar_v0_v1_v2.png)
+![Metric-profile radar charts](screenshots/llm_metrics_vers.png)
 
-> _Placeholder: insert the three side-by-side radar charts (recall / abstain / general / tone) produced by the summary cell._
+> _Side-by-side metrics charts (recall / abstain / general / tone) of base LLM and tuned LLM._
 
 **Error analysis (final model, v2):** every wrong probe is listed with the model answer and the gold. Remaining misses cluster on lookalike plan tiers and near-miss numbers — the kind of thing more contrastive DPO pairs or a light retrieval layer would fix.
 
