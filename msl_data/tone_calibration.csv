@@ -1,0 +1,9 @@
+id,curt_answer
+gi_what,MediShield Life is a health insurance scheme for large hospital bills.
+gi_start,MediShield Life started in 2015.
+bc_maxclaim,"Maximum claim is $200,000 per policy year."
+bc_wardlimit_after,Normal ward pays $830 per day from day three.
+cp_deductible,"Class C deductible is $2,000 per year."
+cp_coinsurance,Co-insurance is 3% to 10%.
+pd_subsidy,Premium subsidies are up to 60%.
+pd_newborngrant,"MediSave Grant for Newborns is $5,000."

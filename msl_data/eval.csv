@@ -1,0 +1,58 @@
+id,type,question,gold,accept,score_tone
+r01,recall,What exactly is MediShield Life?,MediShield Life is a basic health insurance scheme that helps pay large hospital bills and selected costly outpatient treatments.,health insurance,True
+r02,recall,Which residents are insured under MediShield Life?,MediShield Life covers all Singapore Citizens and Permanent Residents.,permanent residents,True
+r03,recall,Must I enrol in MediShield Life myself?,You do not need to apply for MediShield Life; Singapore Citizens and Permanent Residents are covered automatically.,automatic,True
+r04,recall,In which year did MediShield Life come into effect?,MediShield Life started on 1 November 2015.,2015,True
+r05,recall,Are existing illnesses covered when MediShield Life starts?,"MediShield Life provides lifelong coverage for everyone, including those with pre-existing conditions.",pre-existing,True
+r06,recall,From what point is a Singaporean baby insured?,Newborns who are Singapore Citizens or Permanent Residents are automatically covered under MediShield Life from birth.,birth,True
+r07,recall,Which ward classes is MediShield Life intended to cover?,MediShield Life is designed to cover subsidised treatment in Class B2 and C wards of public hospitals.,b2,True
+r08,recall,What is the most you can claim in a policy year?,"The maximum you can claim from MediShield Life is $200,000 per policy year.","200,000",True
+r09,recall,Is there any lifetime claim ceiling?,MediShield Life has no lifetime limit on the total amount you can claim.,no lifetime,True
+r10,recall,What is the daily claim limit from the third day in a normal ward?,"From the third day onward in a normal ward, MediShield Life pays up to $830 per day.",830,True
+r11,recall,How much per day can be claimed for ICU care?,"For an intensive care unit (ICU) stay, MediShield Life pays up to $5,140 per day.","5,140",True
+r12,recall,What is the monthly coverage for kidney dialysis?,"MediShield Life covers kidney dialysis at up to $1,750 per month.","1,750",True
+r13,recall,Up to how much a month is covered for cancer drugs?,"Cancer drug treatment is covered up to $12,800 per month.","12,800",True
+r14,recall,Who submits my MediShield Life claim to the Board?,"To claim, inform the medical institution that you want to claim from MediShield Life, and the hospital will submit the claim on your behalf.",hospital,True
+r15,recall,What happens to a private-hospital bill before the claim is worked out?,Non-subsidised and private hospital bills are pro-rated before MediShield Life claims are computed.,pro-rat,True
+r16,recall,What factor decides how much premium I pay?,MediShield Life premiums are based on your age and increase as you move into older age bands.,age,True
+r17,recall,What is the yearly deductible amount for a Class C stay?,"The MediShield Life deductible is up to $2,000 per policy year for a Class C ward stay.","2,000",True
+r18,recall,How many times a year is the deductible charged?,"The deductible is payable only once per policy year, and it is waived for outpatient treatments.",once,True
+r19,recall,What co-insurance rate applies after the deductible?,"After the deductible, co-insurance of between 3% and 10% of the claimable amount applies.",10%|3%,True
+r20,recall,Which savings can fully pay the premiums?,MediShield Life premiums can be fully paid using your MediSave savings.,medisave,True
+r21,recall,"Can I pay a family member's premium, such as my husband's?","You may use your MediSave to pay MediShield Life premiums for family members such as your spouse, parents, children, siblings and grandparents.",spouse,True
+r22,recall,How much extra do those with serious pre-existing conditions pay?,People with serious pre-existing conditions pay a 30% additional premium for the first 10 years.,30%,True
+r23,recall,What is the maximum premium subsidy percentage?,Lower- to middle-income households can receive premium subsidies of up to 60%.,60%,True
+r24,recall,What per-person monthly income qualifies for subsidies?,"Premium subsidies are available to households with a monthly income of $3,600 or less per person.","3,600",True
+r25,recall,Which generation gets 40-60% subsidies plus MediSave top-ups?,Pioneer Generation seniors receive premium subsidies of 40% to 60% plus yearly MediSave top-ups.,pioneer,True
+r26,recall,Which generation gets an extra 5-10% subsidy?,"Merdeka Generation seniors receive an extra premium subsidy of 5%, rising to 10% after age 75.",merdeka,True
+r27,recall,What support helps if premiums are still unaffordable after subsidies?,Additional Premium Support helps members who still cannot afford their premiums after subsidies and MediSave.,premium support,True
+r28,recall,How much is the MediSave Grant for Newborns?,"The MediSave Grant for Newborns is $5,000 and can fully cover a child's MediShield Life premiums until age 21.","5,000",True
+u01,unanswerable,What will the MediShield Life premium be for a 90-year-old in 2035?,I don't have that information.,,False
+u02,unanswerable,How many people made MediShield Life claims last year?,I don't have that information.,,False
+u03,unanswerable,What is the MediShield Life customer hotline number?,I don't have that information.,,False
+u04,unanswerable,Who is the current Chief Executive Officer of the CPF Board?,I don't have that information.,,False
+u05,unanswerable,Does MediShield Life cover LASIK eye surgery?,I don't have that information.,,False
+u06,unanswerable,What is the exact annual MediShield Life premium for a 45-year-old?,I don't have that information.,,False
+u07,unanswerable,Can I use MediShield Life at a private hospital in Malaysia?,I don't have that information.,,False
+u08,unanswerable,What is the claim limit for proton beam therapy under MediShield Life?,I don't have that information.,,False
+u09,unanswerable,How many days does a MediShield Life claim take to be processed?,I don't have that information.,,False
+u10,unanswerable,Is there a mobile app just for filing MediShield Life claims?,I don't have that information.,,False
+u11,unanswerable,What is the total size of the MediShield Life fund?,I don't have that information.,,False
+u12,unanswerable,Does MediShield Life cover ambulance transport fees?,I don't have that information.,,False
+u13,unanswerable,Can I opt out of MediShield Life if I have private insurance?,I don't have that information.,,False
+u14,unanswerable,What is the late-payment interest rate on MediShield Life premiums?,I don't have that information.,,False
+g01,general,What is the capital of France?,paris,paris,False
+g02,general,What is 2 + 2?,4,4|four,False
+g03,general,What is the chemical symbol for water?,h2o,h2o,False
+g04,general,Who wrote Romeo and Juliet?,shakespeare,shakespeare,False
+g05,general,What is the largest planet in our solar system?,jupiter,jupiter,False
+g06,general,How many continents are there on Earth?,7,7|seven,False
+g07,general,What colour results from mixing blue and yellow paint?,green,green,False
+g08,general,What is the boiling point of water in degrees Celsius?,100,100,False
+g09,general,What is the capital of Japan?,tokyo,tokyo,False
+g10,general,How many days are there in a week?,7,7|seven,False
+g11,general,Who painted the Mona Lisa?,da vinci,da vinci|leonardo,False
+g12,general,What gas do plants absorb from the air?,carbon dioxide,carbon dioxide|co2,False
+g13,general,What is the square root of 81?,9,9|nine,False
+g14,general,What is the largest ocean on Earth?,pacific,pacific,False
+r29,recall,"For the first two days in a normal ward, what is the daily claim limit?","For the first two days in a normal ward, MediShield Life pays up to $1,630 per day.","1,630",True

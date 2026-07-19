@@ -1,0 +1,68 @@
+id,section,question,answer,accept
+gi_what,General Information,What is MediShield Life?,MediShield Life is a basic health insurance scheme that helps pay large hospital bills and selected costly outpatient treatments.,health insurance
+gi_what,General Information,What kind of scheme is MediShield Life?,MediShield Life is a basic health insurance scheme that helps pay large hospital bills and selected costly outpatient treatments.,health insurance
+gi_what,General Information,"In simple terms, what does MediShield Life do?",MediShield Life is a basic health insurance scheme that helps pay large hospital bills and selected costly outpatient treatments.,health insurance
+gi_who,General Information,Who does MediShield Life cover?,MediShield Life covers all Singapore Citizens and Permanent Residents.,permanent residents
+gi_who,General Information,Which people are insured under MediShield Life?,MediShield Life covers all Singapore Citizens and Permanent Residents.,permanent residents
+gi_apply,General Information,Do I have to sign up for MediShield Life?,You do not need to apply for MediShield Life; Singapore Citizens and Permanent Residents are covered automatically.,automatic
+gi_apply,General Information,Is any application needed for MediShield Life?,You do not need to apply for MediShield Life; Singapore Citizens and Permanent Residents are covered automatically.,automatic
+gi_start,General Information,When did MediShield Life begin?,MediShield Life started on 1 November 2015.,2015
+gi_start,General Information,What year was MediShield Life launched?,MediShield Life started on 1 November 2015.,2015
+gi_preexisting_cover,General Information,Does MediShield Life cover people who are already unwell?,"MediShield Life provides lifelong coverage for everyone, including those with pre-existing conditions.",pre-existing
+gi_preexisting_cover,General Information,Are pre-existing conditions covered by MediShield Life?,"MediShield Life provides lifelong coverage for everyone, including those with pre-existing conditions.",pre-existing
+gi_newborn,General Information,From when are newborn babies covered?,Newborns who are Singapore Citizens or Permanent Residents are automatically covered under MediShield Life from birth.,birth
+gi_newborn,General Information,When does a baby's MediShield Life coverage start?,Newborns who are Singapore Citizens or Permanent Residents are automatically covered under MediShield Life from birth.,birth
+bc_wards,Benefits & Claims,Which hospital ward class is MediShield Life meant for?,MediShield Life is designed to cover subsidised treatment in Class B2 and C wards of public hospitals.,b2
+bc_wards,Benefits & Claims,What ward types does MediShield Life focus on?,MediShield Life is designed to cover subsidised treatment in Class B2 and C wards of public hospitals.,b2
+bc_maxclaim,Benefits & Claims,What is the yearly claim limit of MediShield Life?,"The maximum you can claim from MediShield Life is $200,000 per policy year.","200,000"
+bc_maxclaim,Benefits & Claims,How much can you claim in one policy year?,"The maximum you can claim from MediShield Life is $200,000 per policy year.","200,000"
+bc_lifetime,Benefits & Claims,Is there a lifetime cap on MediShield Life claims?,MediShield Life has no lifetime limit on the total amount you can claim.,no lifetime
+bc_lifetime,Benefits & Claims,Does MediShield Life limit lifetime claims?,MediShield Life has no lifetime limit on the total amount you can claim.,no lifetime
+bc_icu,Benefits & Claims,What is the daily ICU claim limit?,"For an intensive care unit (ICU) stay, MediShield Life pays up to $5,140 per day.","5,140"
+bc_icu,Benefits & Claims,How much does MediShield Life cover per day in the ICU?,"For an intensive care unit (ICU) stay, MediShield Life pays up to $5,140 per day.","5,140"
+bc_dialysis,Benefits & Claims,How much is covered for kidney dialysis each month?,"MediShield Life covers kidney dialysis at up to $1,750 per month.","1,750"
+bc_dialysis,Benefits & Claims,What is the monthly dialysis limit under MediShield Life?,"MediShield Life covers kidney dialysis at up to $1,750 per month.","1,750"
+bc_cancer,Benefits & Claims,How much does MediShield Life cover for cancer drug treatment?,"Cancer drug treatment is covered from $200 to $12,800 per month depending on the drug used.","12,800"
+bc_cancer,Benefits & Claims,What is the monthly limit for cancer drugs?,"Cancer drug treatment is covered from $200 to $12,800 per month depending on the drug used.","12,800"
+bc_claimhow,Benefits & Claims,How do I make a MediShield Life claim?,"To claim, inform the medical institution that you want to claim from MediShield Life, and the hospital will submit the claim on your behalf.",hospital
+bc_claimhow,Benefits & Claims,What is the process to claim from MediShield Life?,"To claim, inform the medical institution that you want to claim from MediShield Life, and the hospital will submit the claim on your behalf.",hospital
+bc_proration,Benefits & Claims,Why is my private hospital bill reduced before claiming?,Non-subsidised and private hospital bills are pro-rated before MediShield Life claims are computed.,pro-rat
+bc_proration,Benefits & Claims,What happens to non-subsidised bills before a claim?,Non-subsidised and private hospital bills are pro-rated before MediShield Life claims are computed.,pro-rat
+cp_premiumage,Coverage & Premiums,What determines my MediShield Life premium?,MediShield Life premiums are based on your age and increase as you move into older age bands.,age
+cp_premiumage,Coverage & Premiums,What is the MediShield Life premium based on?,MediShield Life premiums are based on your age and increase as you move into older age bands.,age
+cp_deductible,Coverage & Premiums,How much is the MediShield Life deductible?,"The MediShield Life deductible is up to $2,000 per policy year for a Class C ward stay.","2,000"
+cp_deductible,Coverage & Premiums,What deductible applies before MediShield Life pays?,"The MediShield Life deductible is up to $2,000 per policy year for a Class C ward stay.","2,000"
+cp_deductonce,Coverage & Premiums,How often must I pay the deductible?,"The deductible is payable only once per policy year, and it is waived for outpatient treatments.",once
+cp_deductonce,Coverage & Premiums,Do I pay the deductible on every claim?,"The deductible is payable only once per policy year, and it is waived for outpatient treatments.",once
+cp_coinsurance,Coverage & Premiums,What is the co-insurance under MediShield Life?,"After the deductible, co-insurance of between 3% and 10% of the claimable amount applies.",10%|3%
+cp_coinsurance,Coverage & Premiums,How much co-insurance do I pay after the deductible?,"After the deductible, co-insurance of between 3% and 10% of the claimable amount applies.",10%|3%
+cp_medisave,Coverage & Premiums,How can I pay my MediShield Life premiums?,MediShield Life premiums can be fully paid using your MediSave savings.,medisave
+cp_medisave,Coverage & Premiums,Which account pays MediShield Life premiums?,MediShield Life premiums can be fully paid using your MediSave savings.,medisave
+cp_family,Coverage & Premiums,Can I pay my relatives' MediShield Life premiums?,"You may use your MediSave to pay MediShield Life premiums for family members such as your spouse, parents, children, siblings and grandparents.",spouse
+cp_family,Coverage & Premiums,Whose premiums can I pay from my MediSave?,"You may use your MediSave to pay MediShield Life premiums for family members such as your spouse, parents, children, siblings and grandparents.",spouse
+cp_preexisting_load,Coverage & Premiums,Is there an extra premium for pre-existing conditions?,People with serious pre-existing conditions pay a 30% additional premium for the first 10 years.,30%
+cp_preexisting_load,Coverage & Premiums,How much more do those with pre-existing conditions pay?,People with serious pre-existing conditions pay a 30% additional premium for the first 10 years.,30%
+pd_subsidy,Premium Discounts,What is the highest premium subsidy available?,Lower- to middle-income households can receive premium subsidies of up to 60%.,60%
+pd_subsidy,Premium Discounts,How large can MediShield Life premium subsidies be?,Lower- to middle-income households can receive premium subsidies of up to 60%.,60%
+pd_income,Premium Discounts,What income qualifies for premium subsidies?,"Premium subsidies are available to households with a monthly income of $3,600 or less per person.","3,600"
+pd_income,Premium Discounts,What is the income threshold for MediShield Life subsidies?,"Premium subsidies are available to households with a monthly income of $3,600 or less per person.","3,600"
+pd_pioneer,Premium Discounts,What premium help do Pioneer Generation seniors get?,Pioneer Generation seniors receive premium subsidies of 40% to 60% plus yearly MediSave top-ups.,pioneer
+pd_pioneer,Premium Discounts,How are pioneers supported with MediShield Life premiums?,Pioneer Generation seniors receive premium subsidies of 40% to 60% plus yearly MediSave top-ups.,pioneer
+pd_merdeka,Premium Discounts,What subsidy do Merdeka Generation seniors receive?,"Merdeka Generation seniors receive an extra premium subsidy of 5%, rising to 10% after age 75.",merdeka
+pd_merdeka,Premium Discounts,How much extra subsidy for the Merdeka Generation?,"Merdeka Generation seniors receive an extra premium subsidy of 5%, rising to 10% after age 75.",merdeka
+pd_aps,Premium Discounts,What help exists if I still can't afford premiums?,Additional Premium Support helps members who still cannot afford their premiums after subsidies and MediSave.,premium support
+pd_aps,Premium Discounts,What support is there beyond the usual subsidies?,Additional Premium Support helps members who still cannot afford their premiums after subsidies and MediSave.,premium support
+pd_newborngrant,Premium Discounts,What grant helps pay a newborn's premiums?,"The MediSave Grant for Newborns is $5,000 and can fully cover a child's MediShield Life premiums until age 21.","5,000"
+pd_newborngrant,Premium Discounts,What amount does the newborn MediSave grant provide?,"The MediSave Grant for Newborns is $5,000 and can fully cover a child's MediShield Life premiums until age 21.","5,000"
+bc_wardlimit_first,Benefits & Claims,What is the normal-ward daily limit for the first two days?,"For the first two days in a normal ward, MediShield Life pays up to $1,630 per day.","1,630"
+bc_wardlimit_first,Benefits & Claims,How much per day for the first two days in a normal ward?,"For the first two days in a normal ward, MediShield Life pays up to $1,630 per day.","1,630"
+bc_wardlimit_after,Benefits & Claims,What does a normal ward pay per day from the third day?,"From the third day onward in a normal ward, MediShield Life pays up to $830 per day.",830
+bc_wardlimit_after,Benefits & Claims,How much per day in a normal ward after the first two days?,"From the third day onward in a normal ward, MediShield Life pays up to $830 per day.",830
+pd_pioneer,Premium Discounts,Which older cohort gets 40% to 60% MediShield Life premium subsidies?,Pioneer Generation seniors receive premium subsidies of 40% to 60% plus yearly MediSave top-ups.,pioneer
+pd_pioneer,Premium Discounts,What premium subsidy do Pioneer Generation seniors receive?,Pioneer Generation seniors receive premium subsidies of 40% to 60% plus yearly MediSave top-ups.,pioneer
+pd_merdeka,Premium Discounts,What extra subsidy do Merdeka Generation seniors get?,"Merdeka Generation seniors receive an extra premium subsidy of 5%, rising to 10% after age 75.",merdeka
+pd_merdeka,Premium Discounts,Which cohort receives an added 5% to 10% premium subsidy after age 75?,"Merdeka Generation seniors receive an extra premium subsidy of 5%, rising to 10% after age 75.",merdeka
+pd_income,Premium Discounts,What is the per-person income cap for premium subsidies?,"Premium subsidies are available to households with a monthly income of $3,600 or less per person.","3,600"
+pd_income,Premium Discounts,A household qualifies for subsidies below what income per person?,"Premium subsidies are available to households with a monthly income of $3,600 or less per person.","3,600"
+gi_apply,General Information,Do I need to submit an application to join MediShield Life?,You do not need to apply for MediShield Life; Singapore Citizens and Permanent Residents are covered automatically.,automatic
+gi_apply,General Information,Is enrolment in MediShield Life automatic or manual?,You do not need to apply for MediShield Life; Singapore Citizens and Permanent Residents are covered automatically.,automatic
